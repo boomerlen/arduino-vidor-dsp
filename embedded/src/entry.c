@@ -1,8 +1,10 @@
-// hello_world.c
+// entry.c
 //
 // Test program to ensure we are able to communicate with the Arduino MKR Vidor SAMD21 chip
 //
 // File created: 1/1/2024 by HS
+
+// Wow a modification!
 
 int main() {
     int total = 0;
